@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/indu127pal/GitWorkShop/issues"
   },
-  "homepage": "https://github.com/indu127pal/GitWorkShop#readme"
+  "homepage": "https://github.com/indu127pal/GitWorkShop#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
 }
