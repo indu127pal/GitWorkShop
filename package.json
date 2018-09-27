@@ -1,0 +1,19 @@
+{
+  "name": "git-workshop",
+  "version": "1.0.0",
+  "description": "git workshop code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indu127pal/GitWorkShop.git"
+  },
+  "author": "Indu Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indu127pal/GitWorkShop/issues"
+  },
+  "homepage": "https://github.com/indu127pal/GitWorkShop#readme"
+}
